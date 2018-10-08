@@ -1,4 +1,5 @@
 success文件记录的是能在百度汉语上正确查找的词汇
 fail文件记录的是不能在百度汉语上正确查找的词汇
 filter_by_ner 在success的基础上过滤掉单独的命名实体。
+test_data是随机挑选的500个主词，作为测试数据
 另外HPC上/users4/xyan/data_bank/corpus/lexical/sogou-data-self/data-reseg/sogou_set目录下存放的是word2ner和word2pos两个映射
