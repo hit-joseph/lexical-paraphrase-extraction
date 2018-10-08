@@ -1,3 +1,3 @@
 success文件记录的是能在百度汉语上正确查找的词汇
 fail文件记录的是不能在百度汉语上正确查找的词汇
-另外/users4/xyan/data_bank/corpus/lexical/sogou-data-self/data-reseg/sogou_set目录下存放的是word2ner和word2pos两个映射
+另外HPC上/users4/xyan/data_bank/corpus/lexical/sogou-data-self/data-reseg/sogou_set目录下存放的是word2ner和word2pos两个映射
